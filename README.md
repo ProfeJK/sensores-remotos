@@ -11,3 +11,4 @@ Luego usar algunas ACTIONS para automitizar el codigo.
 Finalmente, conectaremos este codigo a una API para un desarrollo web que nos permita generar fusion de imagenes entre datos multiespectrales  y RGB tomados con drone. 
 
 Este código fue editado por Sebastián Hernández
+
